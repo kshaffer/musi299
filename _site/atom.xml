@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Luca Pette</title>
+ <link href="http://lucapette.com/atom.xml" rel="self"/>
+ <link href="http://lucapette.com/"/>
+ <updated>2013-01-04T21:08:50-05:00</updated>
+ <id>http://lucapette.com</id>
+ <author>
+   <name>Luca Pette</name>
+   <email>lucapette@gmail.com</email>
+ </author>
+ 
+ 
+ <entry>
+   <title>For Tuesday, January 8</title>
+   <link href="http://lucapette.com/assignments/For-Tuesday%2C-January-8"/>
+   <updated>2013-01-04T00:00:00-05:00</updated>
+   <id>http://lucapette.com/assignments/For-Tuesday,-January-8</id>
+   <content type="html">assignment</content>
+ </entry>
+ 
+ 
+</feed>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{{ page.title }}</title>
+    {% include head.html %}
+    {% include meta.html %}
+  </head>
+  <body>
+    <div class=container>
+      <div class="row">
+        <div class="offset2 span12">
+          {% include header.html %}
+          <div id=main>
+            {{ content }}
+          </div>
+          {% include footer.html %}
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

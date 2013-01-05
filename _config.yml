@@ -1,0 +1,8 @@
+auto: true
+permalink: /:categories/:title
+exclude:
+- README.md
+- .rvmrc
+- Gemfile
+- Gemfile.lock
+- Rake

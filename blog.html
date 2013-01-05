@@ -1,0 +1,14 @@
+---
+title: Assignments
+description: Assignments and other class updates
+keywords: assignments
+layout: default
+---
+<h1>Assignments and other updates</h1>
+
+
+<ul id=archive>
+  {% for post in site.posts %}
+    <li><a href="/musi199{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
