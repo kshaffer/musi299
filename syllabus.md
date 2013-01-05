@@ -101,7 +101,9 @@ No late submissions or assessments will be allowed after unit deadlines, with th
 * Laitz, Steven. *The Complete Musician*, 3rd ed. ISBN-13: 978-0-1-9974278-3.  
 * Turabian, Kate, et al. *A Manual for Writers of Research Papers, Theses, and Dissertations*, 7th ed. ISBN-13: 978-0226823379.  
 * Karpinski, Gary. *Manual for Ear Training and Sight Singing*. W.W. Norton, Co. ISBN-13: 978-0-3-9397663-2.  
-* Karpinski, Gary. *Anthology for Sight-Singing*. W.W. Norton, Co. ISBN-13: 978-0-3-9397382-2.
+* Karpinski, Gary. *Anthology for Sight-Singing*. W.W. Norton, Co. ISBN-13: 978-0-3-9397382-2.  
+* A 1/4" male stereo headphone jack to 1/8" female stereo headphone adapter. (Something like [this][RS] or [this][CTG].)
+
 
 ### Recommended, but not required ###
 
