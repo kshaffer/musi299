@@ -1,5 +1,5 @@
 ---
-title:	Syllabus for Musicianship II
+title:	Syllabus for Musicianship IV
 description: syllabus
 keywords: syllabus
 layout: page
@@ -8,15 +8,14 @@ layout: page
 
 # General course description #
 
-Course title: Musicianship II  
-Course number: MUSI 199  
+Course title: Musicianship IV  
+Course number: MUSI 299  
 Semester: Spring 2013  
-Course hashtag: #musi199  
-Meeting time (section 1): MWF 8:00am–8:50am and TT 8:00am–9:20am  
-Meeting time (section 2): MWF 10:00am–10:50am and TT 11:00am–12:20pm  
+Course hashtag: #musi299  
+Meeting time: MWF 9:00am–9:50am and TT 9:30am–10:50am  
 Meeting location: Whittington Hall, room 109  
 Professor: Kris Shaffer, Ph.D. (WT 109a)  
-Course website: [http://kshaffer.github.com/musi199][musi199]  
+Course website: [http://csutheory.shaffermusic.com/musi299][musi299]  
 Online course resources: [http://kshaffer.github.com/musicianshipResources][musicianship]  
 
 # Course sequence overview #
@@ -32,68 +31,65 @@ These courses make use of what is called *standards-based*, *learning objectives
 
 The goals for this course are for students to assimilate and apply certain musical concepts, and to master certain musical skills. The concepts we will address are:
 
-- Principles of good melodic composition
-- Principles of good interaction between musical lines
-- Formal functions
-- Formal containers
-- Harmonic functions
-- The relationship of formal and harmonic functions
 - The relationship of text with melody, rhythm, harmony, and form
 - Verbal and written communication about music
-- The use of technology in the study and practice of music
+- The use of technology in the study and practice of music  
+- Chromatic harmony  
+- Avant-garde composition
 
 The skills we will seek to develop are:
 
-- Performance of stylistically normative melodies (in classical and pop/rock styles)
-- Composition of stylistically normative music (in classical and pop/rock styles)
+- Performance of stylistically normative melodies  
+- Analysis of harmonic structures (by ear and with a score)  
 - Recognition of stylistically normative structures (by ear)
-- Analysis of harmonic and formal structures (by ear and with a score)
 - Writing about music
+- Collaborative research
 
 
 # Units of study #
 
-Musicianship II will be divided into three units. The first two will take place before spring break, and the third will take place between spring break and the end of the semester. In each unit, students will be expected to attain at least a working knowledge of the concepts and skills addressed in that unit. Following are the topics/assessment criteria for each unit.
+Musicianship IV will be divided into three units. The first two will take place before spring break, and the third will take place between spring break and the end of the semester. In each unit, students will be expected to attain at least a working knowledge of the concepts and skills addressed in that unit. Following are the topics/assessment criteria for each unit.
 
-### Unit I: ###
+### Unit I: German art song ###
 
-- strict voice-leading in two parts (species counterpoint)  
-- rhythmic performance  
-- transcription (with an emphasis on bass lines)
-
-### Unit II: ###
-
+- text–music relationships  
 - harmonic syntax  
-- strict keyboard-style voice leading  
 - melodic performance  
 - harmonic listening  
 
-### Unit III: ###
+### Unit II: Twentieth-century art music ###
 
-- pop/rock form  
-- pop/rock harmony  
-- pop/rock voice-leading  
-- text–music relationships (in pop/rock and/or contemporary Christian worship music)  
-- writing about music
+- analysis   
+- melodic performance  
+- rhythmic performance  
+- listening for common twentieth-century structures  
 
-### Semester-long: ###
+### Unit III: Collaborative research project ###
 
-- technology (music notation software, analytical software, Twitter, etc.)
+- listening  
+- analysis  
+- research methods (individual and collaborative)  
+ 
+### Semester-long ###
+
+- technology (music notation software, analytical software, Twitter, etc.)  
+- writing about music (at least one written work per unit)  
 
 # Assessment #
 
-At the beginning of each unit, I will provide a detailed description of the unit's goals and how mastery of each concept or skill will be defined. In some cases, I will restrict your work on a particular topic to a set sequence, and you will not be permitted to move to the next stage in that sequence until you have mastered the first stage. For example, we will cover four different "species" of strict voice-leading. You must master *first-species* counterpoint before moving on to *second-species*, and so on.
+At the beginning of each unit, I will provide a detailed description of the unit's goals and how mastery of each concept or skill will be defined.
 
 At the end of each unit, there will be a hard deadline, by which all work to be assessed must be submitted (or by which successful performance assessments must be completed). After that deadline, no additional work will be accepted, and my assessment of the work submitted at that point will be final (exception provided below). 
 
-The bulk of the assessment in this course will be *formative assessment* rather than *summative assessment*. That is, I will check your work and guide you in your progress toward your goals, but not provide grades for each task performed. As students progress through each unit, *it is each student's responsibility to track and manage their own progress through the unit*. I will provide regular verbal feedback and periodic written feedback on each student's progress in reference to each criterion to help guide student progress.
+The bulk of the assessment in this course will be *formative assessment* rather than *summative assessment*. That is, I will check your work and guide you in your progress toward your goals, but not provide grades for each task performed. As students progress through each unit, *it is each student's responsibility to track and manage their own progress through the unit*. I will provide regular verbal feedback and period written feedback on each student's progress in reference to each criterion to help guide student progress.
 
 
 # Final grades #
 
+
 Each unit's work will be evaluated in reference to each criterion on a four-point scale: *mastery* (4), *working knowledge* (3), *incomplete understanding* (2), *poor understanding* (1), and *no significant attempt made* (0).
 
-To receive an A or B in the course, a student must receive a 3 or 4 for every criterion. To receive a C in the course, a student must receive a 3 or 4 on 10 of the 13 categories and a 2 on the other(s).
+To receive an A or B in the course, a student must receive a 3 or 4 for every criterion. To receive a C in the course, a student may receive a 2 on up to three of the criteria, but must receive a 3 or 4 on all the others.
 
 No late submissions or assessments will be allowed after unit deadlines, with the following exception: *each student will be allowed to submit work post-deadline for up to two criteria, but no more than one per unit*. This will be a one-shot deal—no continuous resubmitting. I want to provide you a balance of structure and freedom, and I hope this will be a helpful balance to keep everyone on task, but without a final-grade penalty for mastering something later than other students.
 
@@ -102,10 +98,10 @@ No late submissions or assessments will be allowed after unit deadlines, with th
 ### Required ###
 
 * A *public* Twitter account. (It can be your personal account, or a second account dedicated solely to this class.)
+* Laitz, Steven. *The Complete Musician*, 3rd ed. ISBN-13: 978-0-1-9974278-3.  
+* Turabian, Kate, et al. *A Manual for Writers of Research Papers, Theses, and Dissertations*, 7th ed. ISBN-13: 978-0226823379.  
 * Karpinski, Gary. *Manual for Ear Training and Sight Singing*. W.W. Norton, Co. ISBN-13: 978-0-3-9397663-2.  
 * Karpinski, Gary. *Anthology for Sight-Singing*. W.W. Norton, Co. ISBN-13: 978-0-3-9397382-2.
-* Headphones with good clarity and bass response.
-* A semester license to [Learning Catalytics][LC].
 
 ### Recommended, but not required ###
 
@@ -126,9 +122,8 @@ In accordance with CSU's Academic Integrity Policy (see 2012–2013 *Student Han
 Group study is a significant component of this class. However, all assignments for individual assessment—unless I announce otherwise—are to be completed by individuals, and are to be the original work of those individuals. It is fine for classmates to check each other's work for errors, train each other's ears, and discuss potential solutions to sticky musical situations with one another; however copying, working off of another's work, or producing a "joint solution" are unacceptable unless explicitly stated otherwise. The instructor reserves the right to assign a grade of zero to any assignment that is completed dishonestly, fail the student for the course, and/or proceed with completion of the university Academic Violation Form. (See 2012–2013 *Student Handbook* for complete Academic Integrity Policy.)
 
 
-[LC]: http://learningcatalytics.com
 [CCBYSA-imagelocal]: CCBYSA.png width="88px"
 [CCBYSA-imageweb]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
 [CCBYSA-text]: http://creativecommons.org/licenses/by-sa/3.0/
 [musicianship]: http://kshaffer.github.com/musicianshipResources
-[musi199]: http://kshaffer.github.com/musi199
+[musi299]: http://csutheory.shaffermusic.com/musi299

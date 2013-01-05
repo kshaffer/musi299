@@ -5,83 +5,107 @@ description: Unit I topics and objectives
 ---
 
 
-## Unit I (January 7–February 1) ##
+# Unit I: German art song (January 7–February 11) #
 
-Unit I will cover the following three topics:
+Unit I will cover the following four topics:
 
-- strict voice-leading in two parts (species counterpoint)  
-- rhythmic performance  
-- transcription (with an emphasis on bass lines)  
+- text-music relationships  
+- harmonic syntax    
+- melodic performance  
+- harmonic listening    
 
-Also included in this unit of study will be work that contributes to the semester-long *technology* topic.
+Also included in this unit of study will be work that contributes to the semester-long *technology* and *writing about music* topics.
 
-All strict voice-leading assessments must be completed by *Friday, February 1*.
+Assessments for the *text-music relationships* and *harmonic syntax* criteria will come from a single analysis/paper project due on Monday, February 11.
 
-Final rhythmic performance assessments will take place on *Tuesday, February 5*. (Students are encouraged to assess prior to that date.)
+Final harmonic listening assessments will take place on *Tuesday, February 5*.
 
-All transcription work must be submitted by *Monday, February 5*.
+Final melodic performance assessments will take place on *Thursday, February 7*. (Students are encouraged to assess prior to that date.)
 
 Work for each topic of study will be evaluated on a four-point scale: *mastery* (4), *working knowledge* (3), *incomplete understanding* (2), *poor understanding* (1), and *no significant attempt made* (0). Rubrics for each category are provided below. (For further information on how final grades are calculated, consult the course syllabus.)
 
 
-## Assessment rubrics ##
+# Assessment rubrics #
 
-### Strict voice-leading ###
+### Text-music relationships ###
 
-Our study of strict voice-leading follows a sequence of six stages. Each stage must be satisfactorily completed before moving to the next. The stages are:
+The following will be demonstrated in a 1000–1500 word paper due at the end of the unit. (More details on the paper forthcoming on the course website.)
 
-- Fundamentals: types of motion and consonance/dissonance  
-- *Cantus firmus* composition  
-- First-species counterpoint (in two voices)  
-- Second-species counterpoint (in two voices)  
-- Third-species counterpoint (in two voices)  
-- Fourth-species counterpoint (in two voices)
+The objectives for this topic are for each student to be able to 1) describe the tone, voice, structure, meaning, imagery, sound, etc. of a Romantic poem in German (with the assistance of an English translation); 2) describe the formal structure of the musical setting and any text-painting devices employed by the composer; 3) describe the composer's interpretation of the poem based on his/her musical setting of it; and 4) interpret the composer's interpretations by critically evaluating it in light of *your* interpretation of the text and other interpretive and musical possibilities available to the composer.
 
-To pass the *types of motion* stage, a student must demonstrate the ability to identify similar, parallel, contrary, and oblique motion between two voices in a score, as well as identify any interval as a perfect consonance, imperfect consonance, or dissonance (for melodic and harmonic intervals).
-
-To pass the *cantus firmus composition* stage, a student must demonstrate the ability to *compose* and *sing* a cantus firmus (short, arhythmic melody) that exhibits the characteristics outlined on the [Musicianship Resources][musicianship] website.
-
-To pass each of the *species counterpoint* stages, a student must demonstrate the ability to *compose* and *sing* a counterpoint line of that species against a given cantus firmus, both in major and in minor, both above and below the cantus, that exhibits the characteristics outlined on the [Musicianship Resources][musicianship] website. Both *composing* and *singing* activities can be done with a partner, but both individuals must convince me of their own mastery of the material.
-
-Final assessments for this category will simply reflect the last species satisfactorily completed. Thus students who have not passed first species by the deadline will receive a 0, students who have passed first species will receive a 1, second species – 2, third species – 3, and fourth species – 4.
+Your grade for this criterion will simply be the number of these objectives you demonstrate in your paper. If you can clearly describe the main features of the poem and music but do not interpret, you get a 2. If you also accurately describe the composer's interpretation, you get a 3. If you can also offer a nuanced interpretation of the composer's interpretation in light of other possibilities, you get a 4.
 
 
-### Rhythmic performance ###
+### Harmonic syntax ###
 
-The goal for this unit is for students to be able to perform a rhythm from sight, in any standard meter, with durations between the bar length and the subdivision length, with both straight and syncopated rhythms.
+The objective for this topic of study is to cap our study of harmonic syntax in tonal music, with each student able to perform an accurate thoroughbass reduction of a piece of music that involves diatonic and chromatic elements, modal mixture, and modulation.
 
-Rhythmic lines will be categorized according to the criteria listed below. Students must demonstrate the ability to perform rhythms consistently, with minimal errors, on each level before moving to the next. The most advanced level in which a student has demonstrated proficiency will be the student's grade for this category (i.e., proficiency in levels 0–3 by the deadline will result in a grade of 3).
+Grades for this criterion will be assigned according to the following rubric, primarily in light of both a German art song analysis project. Harmonic analyses of dictation passages will also contribute to this assessment.
 
-Level 0: Rhythmic lines in any standard meter (simple or compound) with durations between the division level and the bar level, with tied and dotted rhythms, no syncopation. (Most students will carry over this proficiency from Musicianship I.)
+*Mastery (4)* – Student can produce a thoroughbass reduction (bass and figures) of a German art song, with a functional bass analysis *and* a Roman numeral analysis, with all modulations labeled by type, typeset in music notation software with minimal errors.
 
-Level 1: Rhythmic lines with level 1 characteristics, but introducing beat-level syncopations in simple meter.
+*Working knowledge (3)* – Same as *mastery*, but with more than minimal errors.
 
-Level 2: Rhythmic lines with level 2 characteristics, but introducing beat-level syncopations in compound meter.
+*Incomplete knowledge (2)* – Student demonstrates fundamental misunderstanding of one or more conceptual elements (functions, mixture, proper nomenclature, chordal roots, etc.) or makes substantial errors in analysis (such as long passages analyzed in an incorrect key) or moderate errors in reduction.
 
-Level 3: Rhythmic lines with level 3 characteristics, but introducing division-level syncopations in simple meter.
+*Poor knowledge (1)* – Student demonstrates fundamental misunderstanding of multiple conceptual elements or an inability to reduce art song texture to a thoroughbass line.
 
-Level 4: Rhythmic lines with level 4 characteristics, but introducing division-level syncopations in compound meter.
+*No significant attempt made (0)* – Student does not submit a complete analysis project on time, or demonstrates knowledge below passing level for Elementary Theory II.
 
 
-### Transcription ###
+### Melodic performance ###
 
-The goal for this unit is for students to be able to transcribe the bass guitar part to any pop/rock song and the vocal bass part of a choral ensemble.
+The objective for this category is for each student to be able to sing from sight a melody in any standard key or meter that includes standard chromatic figures and/or modulates to a closely related key.
 
-Final grades for this category will be assigned according to the progress students have made towards this goal by the performance exam deadline, according to the following rubric.
+Melodies will be categorized according to the criteria listed below. Students must demonstrate the ability to perform melodies consistently, with minimal errors, on each level before moving to the next. The most advanced level in which a student has demonstrated proficiency will be the student's grade for this category (i.e., proficiency in levels 0–3 by the deadline will result in a grade of 3).
 
-*Mastery (4)* – Student can transcribe a bass guitar part from a pop/rock song of a moderate or high degree of difficulty with minimal errors in pitch, rhythm, and register. Student can transcribe a vocal bass part from a recording of a choral work of a moderate degree of difficulty with minimal errors in pitch, rhythm, and register.
+Level 0: Melodies in any key (major or minor) and any standard meter (simple or compound) comprised of diatonic pitches, rhythmic durations from bar length to subdivision length, with dotted and tied rhythms, and with mild syncopation. (Many students will carry this level over from Aural Skills II.)
 
-*Working knowledge (3)* – Student performs up to *mastery* standard in one genre, but has some difficulty with the other.
+Level 1: Melodies with characteristics of level 0, with chromatic passing tones and chromatic complete neighbor tones.
 
-*Incomplete knowledge (2)* – Student demonstrates a moderate degree of difficulty with both genres.
+Level 2: Melodies with characteristics of level 1, with chromatic incomplete neighbor tones.
 
-*Poor knowledge (1)* – Student demonstrates significant difficulties with one or both genres.
+Level 3: Melodies with characteristics of level 2, with arpeggiations of applied chords and chromatic subdominant chords.
 
-*No significant attempt made (0)* – Student does not assess this category, or performs below the standard for passing Musicianship I.
+Level 4: Melodies with characteristics of level 3, that modulate to closely related keys.
+
+
+### Harmonic listening ###
+
+The objective for harmonic listening is for all students to listen to a phrase-long chord progression that includes chromatic chords and reliably dictate four elements—melody, bass line, functional bass, and thoroughbass figures. 
+
+Passages will be categorized according to the criteria listed below. Students must demonstrate the ability to dictate all four elements consistently, with minimal errors, on each level before moving to the next. The most advanced level in which a student has demonstrated proficiency will be the student's grade for this category (i.e., proficiency in levels 0–3 by the deadline will result in a grade of 3).
+
+Level 0: Passages containing only diatonic chords.
+
+Level 1: Passages containing diatonic chords and chromatic subdominants.
+
+Level 2: Passages containing diatonic chords, chromatic subdominants, and/or D7/x applied chords.
+
+Level 3: Passages containing diatonic chords, chromatic subdominants, and D7/x and/or D4/x applied chords.
+
+Level 4: Passages containing all types of diatonic, chromatic subdominant, and applied chords.
+
+### Writing about music ###
+
+Generally, writing will be assessed according to following five criteria:
+
+* Identify and write appropriately for a target audience.
+* Generate an original thesis based on evidence (that is, your analysis).
+* Construct clear linear argument in support of a thesis and devoid of unnecessary details.
+* Use musical terminology appropriately and effectively.
+* Demonstrate mastery of *Chicago Manual of Style* for writing on music and citing sources.
+
+For each written work (there is one at the end of Unit I), you will receive a grade on the standard four-point scale equal to the number of these criteria you satisfy by the deadline, minus one. (I.e., fulfill all five and get a grade of 4; fulfill three and get a grade of 2; etc.)
+
+There will be three written assignments during the semester. You will be allowed to reassess *one* of those papers after its deadline. At the end of the term, your median grade will be your final grade for this category. 
+
+**Exceptions**: If any of your papers at the end of the semester stand at a 0 or a 1, you cannot receive a final *writing about music* grade higher than a 2, no matter how solid your other papers are. Likewise, if any of your papers at the end of the semester stand at a 2, you cannot receive a final *writing about music* grade higher than a 3. (In other words, a final grade of 4 is reserved for those with three passing papers.)
 
 ### Technology ###
 
-During Unit I, student will be expected to demonstrate an ability to produce counterpoint exercises and bass-line transcriptions in a music notation application. Since this category is on-going, and will not be complete until the end of the term, no grade will be assigned at the end of Unit I.
+Work in this category is on-going throughout the semester, so no grade will be given at the end of Unit I. However, students are expected to produce their reduction/analysis in music notation software. The accuracy and cleanness of that will be considered toward the final grade in this category.
+
 
 
 [LC]: http://learningcatalytics.com

@@ -1,1 +1,1 @@
-Course website for MUSI199 at CSU, powered by Jekyll and Github Pages. Written mostly in Markdown.
+Course website for MUSI299 at CSU, powered by Jekyll and Github Pages. Written mostly in Markdown.
