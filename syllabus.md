@@ -1,5 +1,5 @@
 ---
-title:	Syllabus for Musicianship IV
+title: Syllabus for Musicianship IV
 description: syllabus
 keywords: syllabus
 layout: page
