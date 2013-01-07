@@ -129,3 +129,5 @@ Group study is a significant component of this class. However, all assignments f
 [CCBYSA-text]: http://creativecommons.org/licenses/by-sa/3.0/
 [musicianship]: http://kshaffer.github.com/musicianshipResources
 [musi299]: http://csutheory.shaffermusic.com/musi299
+[RS]: http://www.radioshack.com/product/index.jsp?productId=2062468
+[CTG]: http://www.cablestogo.com/product/40639
