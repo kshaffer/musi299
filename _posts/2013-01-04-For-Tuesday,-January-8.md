@@ -1,5 +1,5 @@
 ---
-title: For Tuesday, January 8
+title: "For Tuesday, January 8"
 description: assignment
 keywords: 
 category: assignments

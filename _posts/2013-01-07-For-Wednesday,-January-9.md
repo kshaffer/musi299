@@ -1,5 +1,5 @@
 ---
-title: For Wednesday, January 9
+title: "For Wednesday, January 9"
 category: assignments
 layout: blog
 ---
