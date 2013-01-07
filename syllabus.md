@@ -124,7 +124,6 @@ In accordance with CSU's Academic Integrity Policy (see 2012–2013 *Student Han
 Group study is a significant component of this class. However, all assignments for individual assessment—unless I announce otherwise—are to be completed by individuals, and are to be the original work of those individuals. It is fine for classmates to check each other's work for errors, train each other's ears, and discuss potential solutions to sticky musical situations with one another; however copying, working off of another's work, or producing a "joint solution" are unacceptable unless explicitly stated otherwise. The instructor reserves the right to assign a grade of zero to any assignment that is completed dishonestly, fail the student for the course, and/or proceed with completion of the university Academic Violation Form. (See 2012–2013 *Student Handbook* for complete Academic Integrity Policy.)
 
 
-[CCBYSA-imagelocal]: CCBYSA.png width="88px"
 [CCBYSA-imageweb]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
 [CCBYSA-text]: http://creativecommons.org/licenses/by-sa/3.0/
 [musicianship]: http://kshaffer.github.com/musicianshipResources
