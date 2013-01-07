@@ -102,7 +102,7 @@ No late submissions or assessments will be allowed after unit deadlines, with th
 * Turabian, Kate, et al. *A Manual for Writers of Research Papers, Theses, and Dissertations*, 7th ed. ISBN-13: 978-0226823379.  
 * Karpinski, Gary. *Manual for Ear Training and Sight Singing*. W.W. Norton, Co. ISBN-13: 978-0-3-9397663-2.  
 * Karpinski, Gary. *Anthology for Sight-Singing*. W.W. Norton, Co. ISBN-13: 978-0-3-9397382-2.  
-* A 1/4" male stereo headphone jack to 1/8" female stereo headphone adapter. (Something like [this][RS] or [this][CTG].)
+* A 1/4" male stereo headphone jack to 1/8" female stereo headphone adapter.
 
 
 ### Recommended, but not required ###
@@ -124,9 +124,8 @@ In accordance with CSU's Academic Integrity Policy (see 2012–2013 *Student Han
 Group study is a significant component of this class. However, all assignments for individual assessment—unless I announce otherwise—are to be completed by individuals, and are to be the original work of those individuals. It is fine for classmates to check each other's work for errors, train each other's ears, and discuss potential solutions to sticky musical situations with one another; however copying, working off of another's work, or producing a "joint solution" are unacceptable unless explicitly stated otherwise. The instructor reserves the right to assign a grade of zero to any assignment that is completed dishonestly, fail the student for the course, and/or proceed with completion of the university Academic Violation Form. (See 2012–2013 *Student Handbook* for complete Academic Integrity Policy.)
 
 
+[CCBYSA-imagelocal]: CCBYSA.png width="88px"
 [CCBYSA-imageweb]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
 [CCBYSA-text]: http://creativecommons.org/licenses/by-sa/3.0/
 [musicianship]: http://kshaffer.github.com/musicianshipResources
 [musi299]: http://csutheory.shaffermusic.com/musi299
-[RS]: http://www.radioshack.com/product/index.jsp?productId=2062468
-[CTG]: http://www.cablestogo.com/product/40639
