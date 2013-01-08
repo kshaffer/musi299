@@ -4,7 +4,7 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Luca Pette</title>
+ <title>Musicianship IV</title>
  <link href="http://kshaffer.github.com/musi299/atom.xml" rel="self"/>
  <link href="http://kshaffer.github.com/musi299/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
@@ -14,13 +14,13 @@ layout: nil
    <email>kshaffer@csuniv.edu</email>
  </author>
  
- {% for post in site.posts limit:10 %}
+ {% for post in site.posts limit:100 %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="kshaffer.github.com/musi299{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>kshaffer.github.com/musi299{{ post.id }}</id>
-   <content type="html">{{ post.description | xml_escape }}</content>
+   <content type="html">{{ post.description }}</content>
  </entry>
  {% endfor %}
  
