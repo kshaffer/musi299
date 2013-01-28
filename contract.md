@@ -3,9 +3,6 @@ title: Musicianship IV class contract (draft)
 layout: page
 ---
 
-{{ page.title }}
-================
-
 The professor will . . .
 - help students learn necessary career skills;  - give students good material that is written at an appropriate level;  - make effective use of in-class time and out-of-class time; - allow appropriate time for review & questions, at the appropriate moments in the learning cycle;  - make himself available to students during office hours;  
 - will respond to requests for help via email or Twitter within one or two class days;  - not require final assessments until the above has had ample opportunity to take place.Students will . . .
