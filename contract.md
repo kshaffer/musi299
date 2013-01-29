@@ -11,7 +11,8 @@ The professor will . . .
 - allow appropriate time for review & questions, at the appropriate moments in the learning cycle;  
 - make himself available to students during office hours;  
 - will respond to requests for help via email or Twitter within one or two class days;  
-- not require final assessments until the above has had ample opportunity to take place.
+- not require final assessments until the above has had ample opportunity to take place; and  
+- communicate with students if unable to perform any of the above.
 
 Students will . . .
 
@@ -24,5 +25,5 @@ Students will . . .
 - refrain from activity harmful to others’ learning;  
 - be honest with each other about expectations, in order to form good partnerships;  
 - be present and prepared at any out-of-class meetings scheduled with classmates;  
-- put at least as much effort into succeeding in the course as the instructor puts into helping each student succeed;  
+- put at least as much effort into succeeding in the course as the instructor puts into helping each student succeed; and  
 - communicate with the professor and/or classmates (for group/partner work) if unable to perform any of the above.
