@@ -1,5 +1,5 @@
 ---
-title: Musicianship IV class contract (draft)
+title: Musicianship IV class contract
 layout: page
 ---
 
