@@ -5,7 +5,7 @@ description: Unit I topics and objectives
 ---
 
 
-# Unit I: German art song (January 7–February 11) #
+# Unit I: German art song (January 7–February 18) #
 
 Unit I will cover the following four topics:
 
@@ -16,11 +16,11 @@ Unit I will cover the following four topics:
 
 Also included in this unit of study will be work that contributes to the semester-long *technology* and *writing about music* topics.
 
-Assessments for the *text-music relationships* and *harmonic syntax* criteria will come from a single analysis/paper project due on Monday, February 11.
+Assessments for the *text-music relationships* and *harmonic syntax* criteria will come from a single analysis/paper project due on *Monday, February 18* at 12am (i.e., the midnight that ends Sunday and begins Monday).
 
-Final harmonic listening assessments will take place on *Tuesday, February 5*.
+Final harmonic listening assessments will take place on *Thursday, February 14*.
 
-Final melodic performance assessments will take place on *Thursday, February 7*. (Students are encouraged to assess prior to that date.)
+Final melodic performance assessments will take place on *Tuesday, February 12*. (Students are encouraged to assess prior to that date.)
 
 Work for each topic of study will be evaluated on a four-point scale: *mastery* (4), *working knowledge* (3), *incomplete understanding* (2), *poor understanding* (1), and *no significant attempt made* (0). Rubrics for each category are provided below. (For further information on how final grades are calculated, consult the course syllabus.)
 
