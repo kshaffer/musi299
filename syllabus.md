@@ -55,14 +55,14 @@ Musicianship IV will be divided into three units. The first two will take place 
 - text–music relationships  
 - harmonic syntax  
 - melodic performance  
-- harmonic listening  
+- harmonic listening (will extend into Unit II)  
 
 ### Unit II: Twentieth-century art music ###
 
 - analysis   
-- melodic performance  
+- melodic dictation (tonal-chromatic)  
 - rhythmic performance  
-- listening for common twentieth-century structures  
+- harmonic listening (continued from Unit I)  
 
 ### Unit III: Collaborative research project ###
 

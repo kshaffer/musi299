@@ -18,7 +18,7 @@ Also included in this unit of study will be work that contributes to the semeste
 
 Assessments for the *text-music relationships* and *harmonic syntax* criteria will come from a single analysis/paper project due on *Monday, February 18* at 12am (i.e., the midnight that ends Sunday and begins Monday).
 
-Final harmonic listening assessments will take place on *Thursday, February 14*.
+Final harmonic listening assessments will take place on *Friday, March 8*.
 
 Final melodic performance assessments will take place on *Tuesday, February 12*. (Students are encouraged to assess prior to that date.)
 
@@ -72,19 +72,18 @@ Level 4: Melodies with characteristics of level 3, that modulate to closely rela
 
 ### Harmonic listening ###
 
-The objective for harmonic listening is for all students to listen to a phrase-long chord progression that includes chromatic chords and reliably dictate four elements—melody, bass line, functional bass, and thoroughbass figures. 
+The objective for harmonic listening is for all students to listen to a phrase-long chord progression that includes chromatic chords (chromatically altered subdominants and applied chords) and reliably dictate four elements—melody, bass line, functional bass, and thoroughbass figures. 
 
-Passages will be categorized according to the criteria listed below. Students must demonstrate the ability to dictate all four elements consistently, with minimal errors, on each level before moving to the next. The most advanced level in which a student has demonstrated proficiency will be the student's grade for this category (i.e., proficiency in levels 0–3 by the deadline will result in a grade of 3).
+A student's grade for a dictation exercise will be the number of the following four elements that the student can dictate with minimal or no errors after four hearings:
 
-Level 0: Passages containing only diatonic chords.
+- melody  
+- bass line  
+- chords (thoroughbass figures above the bass notes)  
+- harmonic functions (functional bass symbols below the bass notes)
 
-Level 1: Passages containing diatonic chords and chromatic subdominants.
+There will be a final dictation test before Spring Break, which will determine students' final grades for this criterion. That test will contain multiple phrase-length progressions in major and in minor. The student's grade on that test will be the median score for all the progressions dictated, with the provision that the final grade cannot be higher than the highest score for a minor- or a major-key exercise. (In other words, if a student is better at major than minor, their final score cannot be higher than the score of their best minor-key exercise.)
 
-Level 2: Passages containing diatonic chords, chromatic subdominants, and/or D7/x applied chords.
-
-Level 3: Passages containing diatonic chords, chromatic subdominants, and D7/x and/or D4/x applied chords.
-
-Level 4: Passages containing all types of diatonic, chromatic subdominant, and applied chords.
+In advance of the final dictation test, we will do some in-class dictation practice, and students will do out-of-class dictation practice with a computer application I developed, called *BassGenerator*. Students are expected to practice dictation with this application. Student practice will not only aid their learning, but provide an opportunity for a "safety net" for the final grade. A student's final score will be no lower than one level below what the student masters in practice. For example, if a student has demonstrated a consistent ability to dictate all four elements in four hearings or less, reliably in advance of the test, the lowest score they can achieve on the final test (even if they do not take it) is a 3. If consistency is achieved for three of the four elements in advance, the lowest final score is a 2. Etc. If a student does no practice work, their final test grade is their final grade for this criterion.
 
 ### Writing about music ###
 
