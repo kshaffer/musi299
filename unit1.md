@@ -59,13 +59,11 @@ The objective for this category is for each student to be able to sing from sigh
 
 Melodies will be categorized according to the criteria listed below. Students must demonstrate the ability to perform melodies consistently, with minimal errors, on each level before moving to the next. The most advanced level in which a student has demonstrated proficiency will be the student's grade for this category (i.e., proficiency in levels 0–3 by the deadline will result in a grade of 3).
 
-Level 0: Melodies in any key (major or minor) and any standard meter (simple or compound) comprised of diatonic pitches, rhythmic durations from bar length to subdivision length, with dotted and tied rhythms, and with mild syncopation. (Many students will carry this level over from Aural Skills II. Melodies can be found in Karpinski *Anthology*, up through Chapter 30.)
+Level 1: Melodies in any key (major or minor) and any standard meter (simple or compound) comprised of diatonic pitches, rhythmic durations from bar length to subdivision length, with dotted and tied rhythms, and with mild syncopation. (Many students will carry this level over from Aural Skills II. Melodies can be found in Karpinski *Anthology*, up through Chapter 30.)
 
-Level 1: Melodies with characteristics of level 0, with chromatic passing tones and chromatic complete neighbor tones. (Karpinski *Anthology*, Chapter 30.)
+Level 2: Melodies with characteristics of level 1, with chromatic passing tones and chromatic complete neighbor tones. (Karpinski *Anthology*, Chapter 30.)
 
-Level 2: Melodies with characteristics of level 1, with chromatic incomplete neighbor tones. (Karpinski *Anthology*, Chapter 31.)
-
-Level 3: Melodies with characteristics of level 2, with arpeggiations of applied chords and chromatic subdominant chords. (Karpinski *Anthology*, Chapters 32–38.)
+Level 3: Melodies with characteristics of level 2, with chromatic incomplete neighbor tones (Karpinski *Anthology*, Chapter 31.) and/or arpeggiations of applied chords and chromatic subdominant chords. (Karpinski *Anthology*, Chapters 32–38.)
 
 Level 4: Melodies with characteristics of level 3, that modulate to closely related keys. (Karpinski *Anthology*, Chapters 43–46.)
 
