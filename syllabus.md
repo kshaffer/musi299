@@ -43,7 +43,6 @@ The skills we will seek to develop are:
 - Analysis of harmonic structures (by ear and with a score)  
 - Recognition of stylistically normative structures (by ear)
 - Writing about music
-- Collaborative research
 
 
 # Units of study #
@@ -57,18 +56,11 @@ Musicianship IV will be divided into three units. The first two will take place 
 - melodic performance  
 - harmonic listening (will extend into Unit II)  
 
-### Unit II: Twentieth-century art music ###
+### Unit II: Listening to chromatic common-practice music & analysis of post-common-practice music ###
 
-- analysis   
-- melodic dictation (tonal-chromatic)  
-- rhythmic performance  
-- harmonic listening (continued from Unit I)  
-
-### Unit III: Collaborative research project ###
-
-- listening  
-- analysis  
-- research methods (individual and collaborative)  
+- melodic listening (tonal-chromatic)  
+- harmonic listening (tonal-chromatic)  
+- analysis (post-common-practice)  
  
 ### Semester-long ###
 
@@ -89,9 +81,9 @@ The bulk of the assessment in this course will be *formative assessment* rather 
 
 Each unit's work will be evaluated in reference to each criterion on a four-point scale: *mastery* (4), *working knowledge* (3), *incomplete understanding* (2), *poor understanding* (1), and *no significant attempt made* (0).
 
-To receive an A or B in the course, a student must receive a 3 or 4 for every criterion. To receive a C in the course, a student may receive a 2 on up to three of the criteria, but must receive a 3 or 4 on all the others.
+To receive an A or B in the course, a student must receive a 3 or 4 for every criterion. To receive a C in the course, a student may receive a 2 on up to two of the criteria, but must receive a 3 or 4 on all the others.
 
-No late submissions or assessments will be allowed after unit deadlines, with the following exception: *each student will be allowed to submit work post-deadline for up to two criteria, but no more than one per unit*. This will be a one-shot deal—no continuous resubmitting. I want to provide you a balance of structure and freedom, and I hope this will be a helpful balance to keep everyone on task, but without a final-grade penalty for mastering something later than other students.
+No late submissions or assessments will be allowed after unit deadlines, with the following exception: *each student will be allowed to submit work post-deadline for one criterion from unit I*. This will be a one-shot deal—no continuous resubmitting. I want to provide you a balance of structure and freedom, and I hope this will be a helpful balance to keep everyone on task, but without a final-grade penalty for mastering something later than other students.
 
 # Course materials #
 
