@@ -4,13 +4,21 @@
  <title>Musicianship IV</title>
  <link href="http://kshaffer.github.com/musi299/atom.xml" rel="self"/>
  <link href="http://kshaffer.github.com/musi299/"/>
- <updated>2013-03-27T13:49:03-04:00</updated>
+ <updated>2013-03-28T13:46:06-04:00</updated>
  <id>kshaffer.github.com/musi299</id>
  <author>
    <name>Kris Shaffer</name>
    <email>kshaffer@csuniv.edu</email>
  </author>
  
+ 
+ <entry>
+   <title>For Monday, April 1</title>
+   <link href="kshaffer.github.com/musi299/assignments/April-01"/>
+   <updated>2013-03-28T00:00:00-04:00</updated>
+   <id>kshaffer.github.com/musi299/assignments/April-01</id>
+   <content type="html">assignment</content>
+ </entry>
  
  <entry>
    <title>For Thursday, March 28 (Chapel assignment)</title>
