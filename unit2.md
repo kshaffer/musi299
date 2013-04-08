@@ -61,12 +61,12 @@ Throughout Unit II, we will do some in-class dictation practice, and students wi
 
 ### Analysis ###
 
-The objective for this category is for all students to be able to verbally communicate about the primary structural elements of a post-tonal piece of Western art music. The focus will primarily be on *atonal* and *minimalist* music, but *12-tone* and *serialist* music are also possibilities. This category will be assessed according to a written project due during finals week.
+The objective for this category is for all students to be able to verbally communicate about the primary structural elements of a post-tonal piece of Western art music. The focus will primarily be on *atonal* and *12-tone* music. This category will be assessed according to a written project due during finals week.
 
 Analyses will be assessed according to the following criteria. The first three are musical features that must be substantially (though not necessarily *completely*) explained.
 
-- Primary parameters (pitch, rhythm)  
-- Secondary parameters (timbre, orchestration, dynamics, tempo, etc.)  
+- Primary parameters (pitch and/or rhythm)  
+- Secondary parameters (timbre, orchestration, dynamics, tempo, etc.) and/or text, if applicable  
 - Large-scale formal structure  
 - Construction of a single analytical thesis
 
@@ -75,8 +75,6 @@ The number of these criteria that a student meets in a paper for a piece *not di
 The number of these criteria that a student meets in a paper *minus 1* for a piece *discussed in class* will be the grade for this category.
 
 In other words, if a student chooses to write on a piece discussed in class, the highest possible grade is a 3, and all four criteria must be met in order to receive a passing grade on the paper.
-
-More details on this project will be provided nearer to the end of the semester.
 
 ### Writing about music ###
 
