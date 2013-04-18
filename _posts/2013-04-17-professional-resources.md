@@ -21,5 +21,5 @@ layout: blog
 [quit]: http://www.freakonomics.com/2011/09/30/new-freakonomics-radio-podcast-the-upside-of-quitting/
 [prof]: http://theprofessorisin.com
 [lee]: http://www.insidehighered.com/blogs/college-ready-writing/don’t-go-leave-stay
-[cv]: /media/cv.pdf
-[resume]: /media/resume.pdf
+[cv]: /musi299/media/cv.pdf
+[resume]: /musi299/media/resume.pdf
